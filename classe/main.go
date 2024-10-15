@@ -23,3 +23,5 @@ func main() {
 
 	individuo.Trabalhar()
 }
+
+// golang nao tem classe, apenas simula
